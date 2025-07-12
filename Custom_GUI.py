@@ -41,7 +41,7 @@ def create_code():
         # Delete entry box
         entry_one.delete(0, END)
         # Flash up a finish message
-        entry_one.insert(0, "Finished!")
+        entry_one.insert(0, "Completed!")
 
 
 def clear_all():
