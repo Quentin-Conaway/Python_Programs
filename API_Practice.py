@@ -1,7 +1,7 @@
 import requests
 
 url = ''
-api_key = 'bcb124d04d41df036dd5ef8e18a45368'
+api_key = ""
 
 get_weather = True
 while get_weather:
