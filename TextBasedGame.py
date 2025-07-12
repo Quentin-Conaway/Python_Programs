@@ -1,4 +1,4 @@
-"""Quentin "Blake" Conaway Text Based Game"""
+
 import time
 
 
